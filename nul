@@ -1,4 +1,10 @@
 nul-1
 nul-2
+<<<<<<< HEAD
 kebina2-1
 kebina2-2
+=======
+kebina1-1
+kebina1-2
+kebina1-3
+>>>>>>> origin/nul
